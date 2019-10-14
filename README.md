@@ -28,3 +28,9 @@
 2.  Scikit-Learn
 3.  Allennlp
 4.  Transformers
+
+**Django Resources**
+1.  https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
+2.  https://www.tutorialspoint.com/django/index.htm
+3.  https://www.eduonix.com/courses/Web-Development/Learn-Django-and-Python-Development-By-Building-Projects
+4.  https://www.freecodecamp.org/news/python-django-course/
